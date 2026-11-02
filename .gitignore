@@ -1,0 +1,6 @@
+# Only the results writeup is published. The lab code is Anthropic's,
+# licensed for workshop use only, so it stays local.
+/*
+!/.gitignore
+!/README.md
+!/RESULTS.md
